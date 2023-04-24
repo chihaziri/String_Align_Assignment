@@ -8,7 +8,7 @@ int main() {
     string str;
     int width;
      // Get input from user
-    cout << "Enter string and width🥲: ";
+    cout << "Enter string and width: ";
     cin >>str >>width;
 
     // Calculate number of spaces needed
